@@ -8,7 +8,7 @@ So naturally I wanted to start a challenge with you all!
 7 days, 7 blinked books!
 
 In my upcoming book, I talk about three core components needed for a successful learning plan:
-- Curriculum
+- Curriculum / Content
 - Structure / Accountability
 - Mentorship
 
