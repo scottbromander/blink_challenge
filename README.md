@@ -25,7 +25,7 @@ What do you think?
 Here is the November Sprint Book List:
 
 | Date        | Title           | Author  |
-| ------------- |:-------------:| :-----:|
+| ------------- |:-------------| :-----|
 | Nov 1st      | The 7 Habits of Highly Effective People | Stephen R. Covey |
 | Nov 2nd      | You Are a Badass      |   Jen Sincero |
 | Nov 3rd | The Book of Joy      |    Dalai Lama and Desmond Tutu |
