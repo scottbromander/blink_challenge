@@ -26,13 +26,13 @@ Here is the November Sprint Book List:
 
 | Date        | Title           | Author  |
 | ------------- |:-------------| :-----|
-| Nov 1st      | The 7 Habits of Highly Effective People | Stephen R. Covey |
-| Nov 2nd      | You Are a Badass      |   Jen Sincero |
-| Nov 3rd | The Book of Joy      |    Dalai Lama and Desmond Tutu |
-| Nov 4th | The End of Stress      |    Don Joseph Goewey |
-| Nov 5th | How to Make People Like You in 90 Seconds or Less      |    Nicholas Boothman |
-| Nov 6th | Resilience      |    Mark McGuinness |
-| Nov 7th | The Upside of Stress      |    Kelly McGonigal |
+| Nov 1st      | [The 7 Habits of Highly Effective People](https://www.blinkist.com/en/books/the-7-habits-of-highly-effective-people-en/) | Stephen R. Covey |
+| Nov 2nd      | [You Are a Badass](https://www.blinkist.com/books/you-are-a-badass-en?r=2&st=you%20are%20a%20badass)      |   Jen Sincero |
+| Nov 3rd | [The Book of Joy](https://www.blinkist.com/books/the-book-of-joy-en?r=1&st=the%20book%20of%20joy)      |    Dalai Lama and Desmond Tutu |
+| Nov 4th | [The End of Stress](https://www.blinkist.com/books/the-end-of-stress-en?r=1&st=The%20End%20of%20Stress)      |    Don Joseph Goewey |
+| Nov 5th | [How to Make People Like You in 90 Seconds or Less](https://www.blinkist.com/books/how-to-make-people-like-you-in-90-seconds-or-less-en?r=1&st=How%20to%20Make%20People%20Like%20You%20in%2090%20Seconds%20or%20Less)      |    Nicholas Boothman |
+| Nov 6th | [Resilience](https://www.blinkist.com/books/resilience-en-mark-mcguinness?r=1&st=Resilience)      |    Mark McGuinness |
+| Nov 7th | [The Upside of Stress](https://www.blinkist.com/books/the-upside-of-stress-en?r=1&st=The%20Upside%20of%20Stress)      |    Kelly McGonigal |
 
 ---
 
