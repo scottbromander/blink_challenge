@@ -23,6 +23,17 @@ What do you think?
 ---
 
 Here is the November Sprint Book List:
+
+| Date        | Title           | Author  |
+| ------------- |:-------------:| -----:|
+| Nov 1st      | The 7 Habits of Highly Effective People | Stephen R. Covey |
+| Nov 2nd      | You Are a Badass      |   Jen Sincero |
+| Nov 3rd | The Book of Joy      |    Dalai Lama and Desmond Tutu |
+| Nov 4th | The End of Stress      |    Don Joseph Goewey |
+| Nov 5th | How to Make People Like You in 90 Seconds or Less      |    Nicholas Boothman |
+| Nov 6th | Resilience      |    Mark McGuinness |
+| Nov 7th | The Upside of Stress      |    Kelly McGonigal |
+
 - Nov 1st : The 7 Habits of Highly Effective People - By Stephen R. Covey,
 - Nov 2nd : You Are a Badass - By Jen Sincero,
 - Nov 3rd : The Book of Joy - By Dalai Lama and Desmond Tutu,
