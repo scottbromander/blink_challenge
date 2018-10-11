@@ -20,16 +20,22 @@ For this first sprint, I have laid out 7 great / well known books that have been
 
 What do you think? 
 
+---
+
 Here is the November Sprint Book List:
 - Nov 1st : The 7 Habits of Highly Effective People - By Stephen R. Covey,
 - Nov 2nd : You Are a Badass - By Jen Sincero,
 - Nov 3rd : The Book of Joy - By Dalai Lama and Desmond Tutu,
 - Nov 4th : The End of Stress - By Don Joseph Goewey,
-- Nov 5th : What They Don’t Teach You at Harvard Business School - By Mark H. McCormack
+- Nov 5th : How to Make People Like You in 90 Seconds or Less - By Nicholas Boothman
 - Nov 6th : Resilience - By Mark McGuinness
 - Nov 7th : The Upside of Stress - By Kelly McGonigal
 
-Note: I did sign up to become an affiliate for Blinkist. Couldn't help myself, I have been talking about Blinkist with anyone who will listen. What this means, is that if you use my link, and convert to a paid plan, I get a spiff. But, I did make the challenge so that you could squeak into their free trial (7-days). You can also totally not use my link and sign up normal, I absolutely will not be offended. I care much more about you learning than a spiff. But on that note, know that all 'spiffness' is going to getting my book professionally edited. 
+---
+
+**Note**: I did sign up to become an affiliate for Blinkist. Couldn't help myself, I have been talking about Blinkist with anyone who will listen. What this means, is that if you use my link, and convert to a paid plan, I get a spiff. But, I did make the challenge so that you could squeak into their free trial (7-days). You can also totally not use my link and sign up normal, I absolutely will not be offended. I care much more about you learning than a spiff. But on that note, know that all 'spiffness' is going to getting my book professionally edited. 
+
+---
 
 Blinkist costs:
 - $79.99 / year, or,
