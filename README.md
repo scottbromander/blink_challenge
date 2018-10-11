@@ -13,8 +13,7 @@ In my upcoming book, I talk about three core components needed for a successful 
 - Mentorship
 
 The blinks themselves are the curriculum. It is the content we are engaging in.
-The challenge serves as a structure. Its the accountability mechanism in which we engage in to ensure we come back each day. P
-Finally, the mentorship piece is a peer mentorship. We are going to learn and discuss together!
+Like the GitHub Challenge, the goal is daily learning. So this challenge serves as a accountability and structure piece, to ensure we engage each day. Finally, the mentorship piece is a peer mentorship. We are going to learn and discuss together!
 
 For this first sprint, I have laid out 7 great / well known books that have been 'blinked'. The challenge is to listen to, or read the blinked version of the book, then hop into the #blinkchallenge channel on Slack for discussion as a community. Gathering other peoples insights from the same blink will offer new perspectives as well as strengthen your own understanding of the topic of the book. Once the challenge is done, we will open up a submission form to recommend books, and then ultimately vote on the next blinked books for next sprint. The cadence of the challenge will coincide with the 'off-week' of the GitHub Challenge. 
 
