@@ -27,15 +27,11 @@ Here is the November Sprint Book List:
 | ------------- |:-------------| :-----|
 | Nov 1st      | [The 7 Habits of Highly Effective People](https://www.blinkist.com/en/books/the-7-habits-of-highly-effective-people-en/) | Stephen R. Covey |
 | Nov 2nd      | [You Are a Badass](https://www.blinkist.com/books/you-are-a-badass-en?r=2&st=you%20are%20a%20badass)      |   Jen Sincero |
-| Nov 3rd | [The Book of Joy](https://www.blinkist.com/books/the-book-of-joy-en?r=1&st=the%20book%20of%20joy)      |    Dalai Lama and Desmond Tutu |
+| Nov 3rd | [Grit](https://www.blinkist.com/books/grit-en?r=2&st=grit)      |    Angela Duckworth |
 | Nov 4th | [The End of Stress](https://www.blinkist.com/books/the-end-of-stress-en?r=1&st=The%20End%20of%20Stress)      |    Don Joseph Goewey |
 | Nov 5th | [How to Make People Like You in 90 Seconds or Less](https://www.blinkist.com/books/how-to-make-people-like-you-in-90-seconds-or-less-en?r=1&st=How%20to%20Make%20People%20Like%20You%20in%2090%20Seconds%20or%20Less)      |    Nicholas Boothman |
 | Nov 6th | [Resilience](https://www.blinkist.com/books/resilience-en-mark-mcguinness?r=1&st=Resilience)      |    Mark McGuinness |
 | Nov 7th | [The Upside of Stress](https://www.blinkist.com/books/the-upside-of-stress-en?r=1&st=The%20Upside%20of%20Stress)      |    Kelly McGonigal |
-
----
-
-**Note**: I did sign up to become an affiliate for Blinkist. Couldn't help myself, I have been talking about Blinkist with anyone who will listen. What this means, is that if you use my link, and convert to a paid plan, I get a spiff. But, I did make the challenge so that you could squeak into their free trial (7-days). You can also totally not use my link and sign up normal, I absolutely will not be offended. I care much more about you learning than a spiff. But on that note, know that all 'spiffness' is going to getting my book professionally edited. 
 
 ---
 
