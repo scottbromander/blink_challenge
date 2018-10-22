@@ -53,5 +53,8 @@ _Also note that I do not have access at all to membership information or have th
 Three things I need from you:
 - Sign up with this form here. It helps me keep track of who is engaged with the challenge and helps me connect you with Slack.
 - Sign up for a Blinkist Challenge Slack account. That is where the action happens! You could obviously Blink books on your own, but significant traction in retention can happen if you chat about what you learned with others. Join the community! Come hang with us!
+- Finally, sign up for [Blinkist](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291) on the first day of the challenge (November 1st, 2018)!
+
+Further directions will be communicated on our Slack channel!
 
 Questions? Email me @ scottbromander@gmail.com
