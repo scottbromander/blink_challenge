@@ -13,9 +13,9 @@ In the book I am currently writting, I talk about three core components needed f
 - Mentorship
 
 The blinks themselves are the curriculum. It is the content we are engaging in.
-Like the GitHub Challenge, the goal for this challenge is daily learning. So this challenge serves as an accountability and structure component, to ensure we engage each day. Finally, the mentorship piece is a peer mentorship. We are going to learn and discuss together!
+Like the GitHub Challenge, the goal for this challenge is daily learning. So this challenge serves as an accountability and structure component, to ensure we engage each day. Finally, the mentorship piece is a peer mentorship. When we engage in discussion with others and hear their perspectives while voicing our own, we understand things better. 
 
-For this first sprint, I have laid out 7 great / well known books that have been 'blinked'. The challenge is to listen to, or read the blinked version of the book, then hop into the #blinkchallenge channel on Slack for discussion as a community. Gathering other peoples insights from the same blink will offer new perspectives as well as strengthen your own understanding of the topic of the book. Once the challenge is done, we will open up a submission form to recommend books, and then ultimately vote on the next blinked books for next sprint. The cadence of the challenge will coincide with the 'off-week' of the GitHub Challenge. 
+For this first sprint, I have laid out 7 great / well known books that have been 'blinked'. The challenge is to listen to, or read the blinked version of the book, then hop into the Slack Channel created for this challenge, for discussion as a community. Gathering other peoples insights from the same blink will offer new perspectives as well as strengthen your own understanding of the topic of the book. Once the challenge is done, we will open up a submission form to recommend books, and then ultimately vote on the next blinked books for next sprint. The cadence of the challenge will follow the 1st of the month, to the 7th. Then we will continue the conversation of the month's books while voting on the next the rest of the month. This is subject to change, but the challenge fits into the trail period of Blinkist.
 
 What do you think? 
 
@@ -38,7 +38,7 @@ Here is the November Sprint Book List:
 Blinkist costs:
 - $79.99 / year, or,
 - $12.99 / month
-- Free for 7 days, but you HAVE to cancel before the end of the trial or you get billed for the year. 
+- Free for 7 days, but you HAVE to cancel before the end of the trial or you get billed for the year! 
 
 _Note: After I started creating the challenge, I was made aware that Blinkist had an affiliate program. What this means is that if you end up converting to a yearly membership, I get a spiff. Using my links does not cost you anything extra. It just means that Blinkist recognizes that I am advocating for their platform and they reward me for that. In no way, shape or form, do you need to use any of the links on this page. Feel free to sign up 100% on your own. It does not exclude you in the challenge._
 
@@ -46,7 +46,7 @@ _This is about learning and communicating with other people in a daily learning 
 
 _Also note that I do not have access at all to membership information or have the ability to modify memberships._
 
-_Final note, proceeds from the affiliate program will go into getting my first book, Furious Growth, professionally edited._
+_Final note, proceeds from the affiliate program will go into getting my first book professionally edited._
 
 ---
 
