@@ -40,7 +40,7 @@ Blinkist costs:
 - $12.99 / month
 - Free for 7 days, but you HAVE to cancel before the end of the trial or you get billed for the year! 
 
-_Note: After I started creating the challenge, I was made aware that Blinkist had an affiliate program. What this means is that if you end up converting to a yearly membership, I get a spiff. Using my links does not cost you anything extra. It just means that Blinkist recognizes that I am advocating for their platform and they reward me for that. In no way, shape or form, do you need to use any of the links on this page. Feel free to sign up 100% on your own. It does not exclude you in the challenge. Here is affiliate free link to [Blinkist](https://www.blinkist.com). _
+_Note: After I started creating the challenge, I was made aware that Blinkist had an affiliate program. What this means is that if you end up converting to a yearly membership, I get a spiff. Using my links does not cost you anything extra. It just means that Blinkist recognizes that I am advocating for their platform and they reward me for that. In no way, shape or form, do you need to use any of the links on this page. Feel free to sign up 100% on your own. It does not exclude you in the challenge. Here is affiliate free link to_ [Blinkist](https://www.blinkist.com).
 
 _This is about learning and communicating with other people in a daily learning format. The challenge was designed to fit into the free trial period. And I will remind everyone on the last day of the challenge to cancel their memberships if they do not want to continue using it!_
 
