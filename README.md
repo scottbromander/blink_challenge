@@ -47,6 +47,7 @@ _This is about learning and communicating with other people in a daily learning 
 _Also note that I do not have access at all to membership information or have the ability to modify memberships._
 
 _Final note, proceeds from the affiliate program will go into getting my first book, Furious Growth, professionally edited._
+
 ---
 
 ### Want to sign up? Awesome.
