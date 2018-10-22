@@ -2,7 +2,7 @@
 
 # The Blink Challenge
 
-[Blinkist](https://www.blinkist.com/) is a website and service platform that condenses leading non-fiction books into 15 minute, bite-sized "blinks". It extracts all the core parts of the book and makes it quick to consume. I have been using it for a couple weeks, and I am completely hooked. It is educationaly sound by following the [microlearning](https://www.lynda.com/Camtasia-tutorials/microlearning-right-strategy-you/734647/793988-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicrolearning%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) learning paradigm, supports life-long learning patterns, and encourages a [polymathic](https://www.dictionary.com/browse/polymathic) lifestyle. 
+[Blinkist](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291) is a website and service platform that condenses leading non-fiction books into 15 minute, bite-sized "blinks". It extracts all the core parts of the book and makes it quick to consume. I have been using it for a couple weeks, and I am completely hooked. It is educationaly sound by following the [microlearning](https://www.lynda.com/Camtasia-tutorials/microlearning-right-strategy-you/734647/793988-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicrolearning%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) learning paradigm, supports life-long learning patterns, and encourages a [polymathic](https://www.dictionary.com/browse/polymathic) lifestyle. 
 
 So naturally I wanted to start a challenge with you all! 
 7 days, 7 blinked books!
@@ -39,3 +39,9 @@ Blinkist costs:
 - $79.99 / year, or,
 - $12.99 / month
 - Free for 7 days, but you HAVE to cancel before the end of the trial or you get billed for the year. 
+
+_Note: After I started creating the challenge, I was made aware that Blinkist had an affiliate program. What this means is that if you end up converting to a yearly membership, I get a spiff. Using my links does not cost you anything extra. It just means that Blinkist recognizes that I am advocating for their platform and they reward me for that. In no way, shape or form, do you need to use any of the links on this page. Feel free to sign up 100% on your own. It does not exclude you in the challenge._
+
+_This is about learning and communicating with other people in a daily learning format. The challenge was designed to fit into the free trial period. And I will remind everyone on the last day of the challenge to cancel their memberships if they do not want to continue using it!_
+
+_Also note that I do not have access at all to membership information or have the ability to modify memberships._
