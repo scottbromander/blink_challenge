@@ -45,3 +45,13 @@ _Note: After I started creating the challenge, I was made aware that Blinkist ha
 _This is about learning and communicating with other people in a daily learning format. The challenge was designed to fit into the free trial period. And I will remind everyone on the last day of the challenge to cancel their memberships if they do not want to continue using it!_
 
 _Also note that I do not have access at all to membership information or have the ability to modify memberships._
+
+---
+
+### Want to sign up? Awesome.
+
+Three things I need from you:
+- Sign up with this form here. It helps me keep track of who is engaged with the challenge and helps me connect you with Slack.
+- Sign up for a Blinkist Challenge Slack account. That is where the action happens! You could obviously Blink books on your own, but significant traction in retention can happen if you chat about what you learned with others. Join the community! Come hang with us!
+
+Questions? Email me @ scottbromander@gmail.com
