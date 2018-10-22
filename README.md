@@ -59,4 +59,6 @@ Three things I need from you:
 
 Further directions will be communicated on our Slack channel!
 
+---
+
 Questions? Email me @ scottbromander@gmail.com
