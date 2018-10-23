@@ -47,11 +47,13 @@ _Note, I am a Blinkist Affiliate. Links included in this post let Blinkist know 
 ### Want to sign up? Awesome.
 
 Three things I need from you:
-- Sign up with this form here. It helps me keep track of who is engaged with the challenge and helps me connect you with Slack.
-- Sign up for a Blinkist Challenge Slack account. That is where the action happens! You could obviously Blink books on your own, but significant traction in retention can happen if you chat about what you learned with others. Join the community! Come hang with us!
+- Sign up with this [form here](https://goo.gl/forms/mmBvq3wdAOlKITk33). It helps me keep track of who is engaged with the challenge and helps me connect you with Slack.
+- Sign up for a [Blink Challenge Slack](https://join.slack.com/t/blinkchallenge/shared_invite/enQtNDYyMzk4NTY0NjI3LWZiZWE4OTM3NmYxYTA2YTNlY2U0NGUzMDljNzMzYWNlOGEzMDk5YmVkNGU2ZmFhNjJiZDQxNmE3YzI5OGY5NDE) account. That is where the action happens! You could obviously Blink books on your own, but significant traction in retention can happen if you chat about what you learned with others. Join the community! Come hang with us!
 - Finally, sign up for [Blinkist](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291) on the first day of the challenge (November 1st, 2018)!
 
-Further directions will be communicated on our Slack channel!
+- Optional: Sign up for the [Blink Challenge Facebook Private Group](https://www.facebook.com/groups/1683504341754749/) for some async conversation!
+
+Further directions will be communicated on our Slack and Facebook groups!
 
 ---
 
