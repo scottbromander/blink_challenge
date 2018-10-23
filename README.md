@@ -44,9 +44,7 @@ _Note: After I started creating the challenge, I was made aware that Blinkist ha
 
 _This is about learning and communicating with other people in a daily learning format. The challenge was designed to fit into the free trial period. And I will remind everyone on the last day of the challenge to cancel their memberships if they do not want to continue using it!_
 
-_Also note that I do not have access at all to membership information or have the ability to modify memberships._
-
-_Final note, proceeds from the affiliate program will go into getting my first book professionally edited._
+_Also note that I do not have access at all to membership information or have the ability to modify membership
 
 ---
 
