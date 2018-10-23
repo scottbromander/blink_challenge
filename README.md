@@ -2,12 +2,12 @@
 
 # The Blink Challenge
 
-[Blinkist](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291) is a website and service platform that condenses leading non-fiction books into 15 minute, bite-sized "blinks". It extracts all the core parts of the book and makes it quick to consume. I have been using it for a couple weeks, and I am completely hooked. It is educationaly sound by following the [microlearning](https://www.lynda.com/Camtasia-tutorials/microlearning-right-strategy-you/734647/793988-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicrolearning%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) learning paradigm, supports life-long learning patterns, and encourages a [polymathic](https://www.dictionary.com/browse/polymathic) lifestyle. 
+[Blinkist](http://jump.blinkist.com/aff_c?offer_id=2&aff_id=5291) is a website and service platform that condenses leading non-fiction books into 15 minute, bite-sized "blinks". It extracts all the core parts of the book and makes it quick to consume. I have been using it for a couple weeks, and I am completely hooked. It is educationally sound by following the [microlearning](https://www.lynda.com/Camtasia-tutorials/microlearning-right-strategy-you/734647/793988-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3amicrolearning%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) learning paradigm, supports life-long learning patterns, and encourages a [polymathic](https://www.dictionary.com/browse/polymathic) lifestyle. 
 
 So naturally I wanted to start a challenge with you all! 
 7 days, 7 blinked books!
 
-In the book I am currently writting, I talk about three core components needed for a successful learning plan:
+In the book I am currently writing, I talk about three core components needed for a successful learning plan:
 - Curriculum / Content
 - Structure / Accountability
 - Mentorship
