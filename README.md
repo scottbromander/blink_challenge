@@ -33,6 +33,8 @@ Here is the November Sprint Book List:
 | Nov 6th | Resilience |    Mark McGuinness |
 | Nov 7th | The Upside of Stress      |    Kelly McGonigal |
 
+(_Note: The use of Blinkist is unlimited during the trial period. Feel free to branch off to other books. The above list is just where the groups center of gravity will be on the given days._)
+
 ---
 
 Blinkist costs:
